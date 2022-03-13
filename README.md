@@ -1,7 +1,7 @@
 # Module 3 Challenge
 
 ## Cryptocurrency Arbitrage Application
-This crypto arbitrage program analyzes and presents arbitrage opportunities between coinbase and bitstamp exchanges. It compares the data between these two exchanges and analyzes arbitrage opportunies over a period of 4 months. 
+This cryptocurrency arbitrage program analyzes and presents arbitrage opportunities between coinbase and bitstamp exchanges. It compares the data between these two exchanges and analyzes arbitrage opportunies over a period of 4 months. 
 
 ## Technologies
 This project is written in python. The required libraries in order to use the application are pandas, path from pathlib, and %matplotlib inline.
